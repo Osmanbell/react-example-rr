@@ -1,0 +1,6 @@
+{
+  "name": "CloudGenius AI",
+  "description": "Agentic AI platform for generating and deploying cloud infrastructure using natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
